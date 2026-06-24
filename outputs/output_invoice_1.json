@@ -1,0 +1,25 @@
+{
+  "invoice_number": "I0626SE021251320",
+  "invoice_date": "2026-03-07",
+  "due_date": null,
+  "billed_by": "Shreyash Retail Private Limited",
+  "billed_to": "Srishti Verma, Qtr No - 3/A , Street - 26 , Sector - 5, Durg - 490001 CT, India",
+  "line_items": [
+    {
+      "description": "StyleCast x Revolte Women Printed Extended Sleeves Top, Size: L",
+      "hsn": "61044200",
+      "quantity": 1,
+      "unit_price": 1799.0,
+      "discount": 0.0,
+      "tax": 426.67,
+      "total": 448.0
+    }
+  ],
+  "subtotal": 1799.0,
+  "discount": null,
+  "tax_or_gst": 448.0,
+  "total_amount": 448.0,
+  "currency": "INR",
+  "payment_method": null,
+  "notes": null
+}

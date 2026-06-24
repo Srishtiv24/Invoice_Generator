@@ -1,0 +1,25 @@
+{
+  "invoice_number": "I3327TT000031067",
+  "invoice_date": "02 Jun 2026",
+  "due_date": null,
+  "billed_by": "TECHNO SPORTSWEAR PRIVATE LIMITED, Shed No. A03, Malur road, Belathur post, State highway 17, Hosur, Krishnagiri, Tamil Nadu, 635103",
+  "billed_to": "Srishti Verma, Qtr No - 3/A , Street - 26 , Sector - 5, Durg - 490001, CT, India",
+  "line_items": [
+    {
+      "description": "Technosport Women Flared Stretchable Slim Fit Mid Waist Training Track Pants",
+      "quantity": 1,
+      "unit_price": 699.0,
+      "total_price": 535.0,
+      "hsn": "61034300",
+      "tax_rate": "5.0%",
+      "tax": 25.48
+    }
+  ],
+  "subtotal": 699.0,
+  "discount": 164.0,
+  "tax_or_gst": 25.48,
+  "total_amount": 535.0,
+  "currency": "INR",
+  "payment_method": null,
+  "notes": null
+}

@@ -1,0 +1,27 @@
+{
+  "invoice_number": "I2727WT000236985",
+  "invoice_date": "03 Jun 2026",
+  "due_date": null,
+  "billed_by": "Westbury Holdings Pvt Ltd_Pantaloons",
+  "billed_to": "Srishti Verma, Qtr No - 3/A , Street - 26 , Sector - 5, Durg - 490001 CT, India",
+  "line_items": [
+    {
+      "description": "Ajile by Pantaloons Women Printed T-shirt, Size: M",
+      "hsn": "61091000",
+      "quantity": 1,
+      "amount": 499.0,
+      "discount": 134.0,
+      "cgst": 0.0,
+      "sgst": 347.62,
+      "igst": 17.38,
+      "total_amount": 365.0
+    }
+  ],
+  "subtotal": 499.0,
+  "discount": 134.0,
+  "tax_or_gst": 0.0,
+  "total_amount": 365.0,
+  "currency": "INR",
+  "payment_method": null,
+  "notes": null
+}
