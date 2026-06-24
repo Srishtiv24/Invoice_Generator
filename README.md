@@ -42,6 +42,7 @@ It parses invoice details such as invoice number, dates, totals, line items, and
 Run the extractor:
 ```bash
 python invoice_extractor.py
+```
 Outputs will be saved in the `outputs/` folder as JSON files.
 
 ---
