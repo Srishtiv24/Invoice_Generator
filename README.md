@@ -21,17 +21,14 @@ It parses invoice details such as invoice number, dates, totals, line items, and
    ```bash
    git clone https://github.com/Srishtiv24/Invoice_Generator.git
    cd Invoice_Generator
-   ```
 
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
 
 3. Add your OpenRouter API key in `.env`:
-   ```
+   
    OPENROUTER_API_KEY=sk-or-your_api_key_here
-   ```
 
 4. Place invoice PDFs in the `invoices/` folder.
 
@@ -42,7 +39,8 @@ It parses invoice details such as invoice number, dates, totals, line items, and
 Run the extractor:
 ```bash
 python invoice_extractor.py
-```
+
 Outputs will be saved in the `outputs/` folder as JSON files.
 
 ---
+```
