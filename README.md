@@ -1,6 +1,3 @@
-Here’s a shorter, professional **README.md** you can use for your `Invoice_Generator` repository:
-
----
 
 ```markdown
 # Invoice Generator
