@@ -42,12 +42,6 @@ It parses invoice details such as invoice number, dates, totals, line items, and
 Run the extractor:
 ```bash
 python invoice_extractor.py
-```
-
 Outputs will be saved in the `outputs/` folder as JSON files.
 
 ---
-
----
-
-Would you like me to also add a **badges section** (Python version, license, model availability) at the top for a more polished GitHub look?
